@@ -1,2 +1,5 @@
 # for-avira
-We can do it.
+
+## Member
+ ✓ Donghyun Kim(miketestz)
+ ✓ Seyeong Lee(qerogram)
